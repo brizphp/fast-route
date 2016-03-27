@@ -1,4 +1,4 @@
-FastRoute Adapted for bridge
+FastRoute Adapted for Briz
 =======================================
 
 This Library is based on [FastRoute](http://https://github.com/nikic/FastRoute). It is basically fastroute with added support for route inheritance.
